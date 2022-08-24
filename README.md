@@ -1,2 +1,2 @@
 My first readme
-Great programmers
+Great programmer
